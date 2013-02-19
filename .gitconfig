@@ -1,0 +1,5 @@
+[user]
+	name = Duarte Barbosa
+	email = duarte.barbosa@gmail.com
+[core]
+	excludesfile = /home/duarte/.gitignore_global
