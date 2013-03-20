@@ -20,6 +20,8 @@ a.out
 *.rar
 *.tar
 *.zip
+MANIFEST.MF
+build.num
 
 # Logs and databases #
 ######################
